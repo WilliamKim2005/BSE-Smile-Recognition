@@ -20,4 +20,5 @@ My second milestone was finding a database from Sklearn called the "Olivetti fac
   
 My first milestone was setting up my Rasberry Pi. I was able to connect the power supply, monitor, and camera to my Pi. I was also able to install the OS onto my Pi using a micro sd card and a chip reader. Also, I found a data set I can use for my machine learning program. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone]
+https://cdn.discordapp.com/attachments/870297608189542430/875025413053743154/image0.jpg
