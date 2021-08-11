@@ -12,6 +12,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My second milestone was finding a database from Sklearn called the "Olivetti faces dataset". From there made a user interface so I could classify the 400 images in the dataset as either smiling or not smiling. I finished classifying the 400 faces.
 
 # First Milestone
-  
+![image](https://cdn.discordapp.com/attachments/870297608189542430/875025413053743154/image0.jpg)
 My first milestone was setting up my Rasberry Pi. I was able to connect the power supply, monitor, and camera to my Pi. I was also able to install the OS onto my Pi using a micro sd card and a chip reader. Also, I found a data set I can use for my machine learning program. 
 
