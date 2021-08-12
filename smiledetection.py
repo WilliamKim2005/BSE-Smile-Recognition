@@ -21,7 +21,7 @@ from scipy.stats import sem
 from sklearn import metrics
 from matplotlib.patches import Rectangle
 from scipy.ndimage import zoom
-
+svc_1=load('smilemodel.joblib')
 class Trainer:
     def __init__(self):
         self.results = {}
