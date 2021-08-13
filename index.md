@@ -6,10 +6,11 @@ By: William Kim
 | William Kim | Hunter College High School | Business/Engineering | Incoming Junior
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+For my final milestone, after I finished the tedious process of classifying the 400 faces, I then used a image to test if my model was working. 
+https://discord.com/channels/@me/870297608189542430/875749162346487870
 
 # Second Milestone
-My second milestone was finding a database from Sklearn called the "Olivetti faces dataset". From there made a user interface so I could classify the 400 images in the dataset as either smiling or not smiling. I finished classifying the 400 faces.
+My second milestone was finding a database from Sklearn called the "Olivetti faces dataset". From there made a user interface so I could classify the 400 images in the dataset as either smiling or not smiling. 
 
 # First Milestone
 ![image](https://cdn.discordapp.com/attachments/870297608189542430/875026705851486208/image0.jpg)
