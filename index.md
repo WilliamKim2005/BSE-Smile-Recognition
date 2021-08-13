@@ -7,7 +7,7 @@ By: William Kim
   
 # Final Milestone
 For my final milestone, after I finished the tedious process of classifying the 400 faces, I then used a image to test if my model was working. 
-https://discord.com/channels/@me/870297608189542430/875749162346487870
+![image](https://user-images.githubusercontent.com/87985881/129373767-84fdb63d-b2dd-4005-9c2f-5d93deffe291.png)
 
 # Second Milestone
 My second milestone was finding a database from Sklearn called the "Olivetti faces dataset". From there made a user interface so I could classify the 400 images in the dataset as either smiling or not smiling. 
