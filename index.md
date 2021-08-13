@@ -53,7 +53,8 @@ display(button_smile)
 display(button_no_smile)
 display_face(trainer.imgs[trainer.index])
 buttons = widgets.HBox([button_smile, button_no_smile])
-widgets.VBox([buttons,out])```
+widgets.VBox([buttons,out])
+```
 
 # First Milestone
 ![image](https://cdn.discordapp.com/attachments/870297608189542430/875026705851486208/image0.jpg)
