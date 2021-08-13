@@ -54,6 +54,7 @@ display(button_no_smile)
 display_face(trainer.imgs[trainer.index])
 buttons = widgets.HBox([button_smile, button_no_smile])
 widgets.VBox([buttons,out])'''
+
 # First Milestone
 ![image](https://cdn.discordapp.com/attachments/870297608189542430/875026705851486208/image0.jpg)
 My first milestone was setting up my Rasberry Pi. I was able to connect the power supply, monitor, and camera to my Pi. I was also able to install the OS onto my Pi using a micro sd card and a chip reader. Also, I found a data set I can use for my machine learning program. 
